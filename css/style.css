@@ -860,7 +860,7 @@ color: #E74C3C;
 	}
 	.logo img {
 	background-size: 100%;
-	width: 12%;
+	width: 40%;
 	}
 	.banner-info h1 {
 	font-size: 2.5em;
@@ -904,7 +904,7 @@ color: #E74C3C;
 	
 	}
 	.logo img {
-	width: 17%;
+	width: 50%;
 	}
 	.about-pic {
 	width: 100%;
@@ -995,7 +995,7 @@ color: #E74C3C;
 	min-height: 310px;
 	}
 	.logo img {
-	width: 22%;
+	width: 50%;
 	}
 	.banner-info h1 {
 	font-size: 1.85em;
