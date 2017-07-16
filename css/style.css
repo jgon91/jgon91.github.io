@@ -116,7 +116,7 @@ padding: 0.4em 2em;
 	z-index:999;
 }
 .navigation{
-background:#1B242F;
+background:#44823e;;
 padding:1.3em 0;
 }
 .top-menu{
@@ -137,7 +137,7 @@ font-size: 0.95em;
 font-weight: 300;
 }
 .top-menu ul li.active a,.top-menu ul li a:hover{
-color: #E74C3C;
+color: #080808;
 }
 /*----*/
 .top-grid{
@@ -404,8 +404,8 @@ text-align:center;
 .resp-tab-active{
 color:#fff;
   text-shadow: none;
-    background: #E74C3C;
-    border: 2px solid #E74C3C;
+    background: #44823e;
+    border: 2px solid #44823e;
 }
 .resp-tabs-container {
 	padding: 0px;
