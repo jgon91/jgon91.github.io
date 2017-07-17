@@ -72,7 +72,7 @@ padding: 0.4em 2em;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  background: #e1e1e1;
+  background: #44823e;
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
@@ -557,9 +557,7 @@ h2.resp-accordion {
 
 /*----start-testmonials----*/
 /*----start-testmonials----*/
-.testmonials{
-	background:#455261;
-}
+
 .item{
     text-align:center;
     height:250px !important;
@@ -586,7 +584,7 @@ border-radius: 30em;
 }
 .caption p{
 	text-shadow:none;
-	color: #EEE;
+	color: #888;
 	font-size: 0.96em;
 	line-height: 1.5em;
 	width: 40%;
