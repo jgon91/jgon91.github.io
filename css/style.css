@@ -603,6 +603,9 @@ border-radius: 30em;
 .contact{
 	padding:3em 0;
 }
+.order{
+	padding:5em 0;
+}
 .contact-form{
 	margin-top: 2em;
 }
@@ -632,6 +635,12 @@ border-radius: 30em;
 	resize: none;
 }
 .contact h4{
+	color: #666;
+	font-size: 2.5em;
+	font-weight: 300;
+	text-align:center;
+}
+.order h4{
 	color: #666;
 	font-size: 2.5em;
 	font-weight: 300;
